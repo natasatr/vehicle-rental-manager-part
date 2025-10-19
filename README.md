@@ -3,4 +3,4 @@ while others (ADMIN, OPERATOR, CLIENT) can't. Therefore, the system doesn't incl
 and password, meaning that the employee must already be registered in the system in order to access this part with their credentials. Registration
 is handled in the Spring part of the application.
 In this part of the application, the Manager can view and create promotions and posts, as well as search them by title or content respectively.
-DB: MySQL
+
